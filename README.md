@@ -6,6 +6,8 @@ Python (at least 3.8) is installed.
 
 Regex is installed.
 
+Beautiful Soup 4 is installed.
+
 ## Notes
  
 The package is intended to be installed and run on a Linux computer.
