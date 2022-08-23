@@ -1,10 +1,10 @@
 # Wiki-Race
-Find the shortest path between two Wikipedia articles.
+Find the shortest path between two Wikipedia articles, using web scraping with Beautiful Soup, RegEx and multi-threading.
 
 ## Prerequisites
 Python (at least 3.8) is installed.
 
-Regex is installed.
+RegEx is installed.
 
 Beautiful Soup 4 is installed.
 
