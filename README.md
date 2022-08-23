@@ -10,7 +10,7 @@ Regex is installed.
  
 The package is intended to be installed and run on a Linux computer.
 
-This was an assignment for the course IN3110 at the Department of Informatics at the University of Oslo.
+This was an assignment for the course IN3110 at the Department of Informatics at the University of Oslo, completed in the spring of 2021.
 
 ## Functionality
 The program lets you enter the links to two Wikipedia articles, and it finds the shortest path between them.
